@@ -66,9 +66,9 @@ st.sidebar.markdown('''
 ''')
 
 st.sidebar.header("Contact")
-st.sidebar.write("📧 [Email](mailto:safety@company.com)")
-st.sidebar.write("💼 [LinkedIn](https://linkedin.com/in/safety-expert)")
-st.sidebar.write("🐱 [GitHub](https://github.com/safety-detection)")
+st.sidebar.write("📧 [Email](mailto:tanishqchoudhary5689@gmail.com)")
+st.sidebar.write("💼 [LinkedIn](https://www.linkedin.com/in/tanishq-choudhary-tc/)")
+st.sidebar.write("🐱 [GitHub](https://github.com/Tanishq4501)")
 
 @st.cache_resource
 def load_helmet_detection_model():
