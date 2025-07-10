@@ -34,6 +34,10 @@ A Streamlit web app for automatic helmet (hard hat) detection in workplace and c
 
 ![After](https://github.com/Tanishq4501/helmet-detection-ai/blob/main/after.jpg?raw=true)
 
+**Usecase:**
+
+![Usecase](https://github.com/Tanishq4501/Helmet-Detection-AI/blob/main/Construction.PNG)
+
 ---
 
 ## Tech Stack
